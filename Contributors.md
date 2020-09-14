@@ -1,4 +1,5 @@
 # Contributors
+- [xinci](https://github.com/xinci-ruan)
 - [wow that is a big list]
 - [<3HaveABeautifulDay<3]
 - [Richard Bailey](https://richardbailey.xyz)
